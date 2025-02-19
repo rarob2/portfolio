@@ -1,12 +1,14 @@
-# Data Analyist
+# Data Analyst
 
-### About me
+#### Technical skills: Python, Java, Excel, SQL, Tableau
+
+## About me
 paragraph
 
 ### Education
 - Data Analytics training
-- Master of Science, UNC Charlotte
-- Bachelor of Science, Baylor University
+- Master of Science | UNC Charlotte
+- Bachelor of Science | Baylor University
 
 ## Projects
 - project 1
