@@ -7,8 +7,8 @@ paragraph
 
 ### Education
 - Data Analytics training
-- Master of Science | UNC Charlotte
-- Bachelor of Science | Baylor University
+- Master of Science, UNC Charlotte
+- Bachelor of Science, Baylor University
 
 ## Projects
 - project 1
