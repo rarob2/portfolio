@@ -1,11 +1,14 @@
 # Data Analyist
 
-### Education
-Data Analytics training
-Master of Science, UNC Charlotte
-Bachelor of Science, Baylor University
+### About me
+paragraph
 
-### Projects
+### Education
+- Data Analytics training
+- Master of Science, UNC Charlotte
+- Bachelor of Science, Baylor University
+
+## Projects
 - project 1
 - project 2
 - project 3
